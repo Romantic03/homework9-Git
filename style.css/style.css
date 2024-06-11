@@ -35,3 +35,10 @@ header{
     font-size: 30px;
 }
 
+footer{
+    clear: both;
+    height: 100px;
+    text-align: end;
+    line-height: 100px;
+    background: #504c4c8f;
+}
